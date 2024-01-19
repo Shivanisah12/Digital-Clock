@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #282c34;
+    color: #61dafb;
+    font-family: 'Arial', sans-serif;
+}
+
+#clock {
+    font-size: 2em;
+}
